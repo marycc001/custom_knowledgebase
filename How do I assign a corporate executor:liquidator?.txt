@@ -1,0 +1,5 @@
+How do I assign a corporate executor/liquidator?
+
+Currently, Willful only allows you to appoint an individual as an executor/liquidator - we don't support assigning corporate executors/liquidators at this time. This feature is on our roadmap - it requires adding specific information in will outlining the compensation arrangement, which is why it doesn't fit within our current clauses. We hope to add this in the future.
+
+Please sign up here to be notified when we do add this feature: [New feature notification form](https://willfulwills.typeform.com/to/fpyrqH)

@@ -1,0 +1,5 @@
+How many specific gifts / legacies can I list with Willful?
+
+With Willful you can leave as many gifts (called legacies in Quebec) as you'd like but you cannot split those gifts between individuals or organizations. 
+
+Currently Willful does not support adding/attaching a ledger with a list of specific gifts, but we do have an "additional memoranda" clause in our will, which instructs the executor / liquidator to follow any guidance on distribution of personal property even if it's not outlined in the will.
